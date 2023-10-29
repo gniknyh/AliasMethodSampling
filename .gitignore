@@ -1,5 +1,29 @@
 # Prerequisites
 *.d
+.DS_Store
+build/
+CMakeCache.txt
+CMakeSettings.json
+CMakeFiles
+Makefile
+*.cmake
+.ninja_deps
+.ninja_log
+build.ninja
+rules.ninja
+.vs
+.vscode
+/out
+*.sublime-workspace
+*.sublime-project
+*.vcxproj
+*.filters
+*.sdf
+*.sln
+*.dir
+*.opendb
+Debug
+x64
 
 # Compiled Object files
 *.slo
